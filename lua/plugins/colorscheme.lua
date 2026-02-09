@@ -1,4 +1,4 @@
-return { 
+return {
   { "rebelot/kanagawa.nvim" },
   {
     "LazyVim/LazyVim",
@@ -7,4 +7,3 @@ return {
     },
   },
 }
-
